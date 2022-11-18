@@ -1,7 +1,7 @@
 
 
-### Profile/Skill/Blog
-- https://mzd.vercel.app/
+### Profile / Skill / Blog
+=> https://mzd.vercel.app/
 
 
 ### Github Status
