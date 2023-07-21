@@ -1,7 +1,6 @@
 
 
-### Profile / Skill / Blog
-=> https://mzd.vercel.app/
+[https://mzd.vercel.app/](https://mzd2-takumimzd.vercel.app/)
 
 
 ### Github Status
