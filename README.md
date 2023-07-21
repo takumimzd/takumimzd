@@ -1,6 +1,6 @@
 
 
-[https://mzd.vercel.app/](https://mzd2-takumimzd.vercel.app/)
+https://mzd2-takumimzd.vercel.app/
 
 
 ### Github Status
