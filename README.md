@@ -1,6 +1,6 @@
 
 
-https://mzd2-takumimzd.vercel.app/
+[プロフィール](https://mzd2-takumimzd.vercel.app/)
 
 
 ### Github Status
