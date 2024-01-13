@@ -1,8 +1,6 @@
 
 
-[プロフィール](https://mzd2-takumimzd.vercel.app/)
-
-[speakerdeck](https://speakerdeck.com/kamio/regasihurontoendowo-ripureisusitara-kai-fa-sheng-chan-xing-gaxiang-shang-simasita)
+[ポートフォリオ](https://mzd2-takumimzd.vercel.app/)
 
 ### Github Status
 [![trophy](https://github-profile-trophy.vercel.app/?username=takumimzd&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
