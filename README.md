@@ -3,6 +3,13 @@
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=takumimzd&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/takumimzd/)
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takumimzd&layout=compact&theme=tokyonight)](https://github.com/ユーザ名/)
 
+
+### 学歴・職歴
+- 2021/1 ~ 株式会社スタメン プロダクト開発部 開発一部
+- 2023/9 ~ 2024/9 株式会社Purpom Media Lab (副業)
+- 2019/4 ~ 2020/8 りそな銀行 融資課
+- 2015/4 ~ 2019/3 学習院大学 経済学部 経済学科
+
 ### ブログ
 - [TUNAGの新フロントエンドを支える技術と設計](https://tech.stmn.co.jp/entry/2023/08/15/112732)
 - [MSWのモック作成をもう少しだけ自動化する](https://zenn.dev/stmn_inc/articles/1b30b0ac43515b)
