@@ -1,17 +1,26 @@
-### Github Status
-[![trophy](https://github-profile-trophy.vercel.app/?username=takumimzd&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=takumimzd&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/takumimzd/)
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takumimzd&layout=compact&theme=tokyonight)](https://github.com/ユーザ名/)
+### 📊 Github Status
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=takumimzd&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=takumimzd&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/takumimzd/)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=takumimzd&layout=compact&theme=tokyonight)](https://github.com/takumimzd/)
 
-### 学歴・職歴
-- 2025/2 ~ 株式会社SmartHR タレントマネジメント開発1部 プロダクトエンジニア
-- 2021/1 ~ 2025/1 株式会社スタメン フロントエンドエンジニア
-- 2023/9 ~ 2024/9 株式会社Purpom Media Lab フロントエンドエンジニア (副業)
-- 2019/4 ~ 2020/8 りそな銀行 融資課
-- 2015/4 ~ 2019/3 学習院大学 経済学部 経済学科
+---
 
-### ブログ
+### 🧑‍💻 学歴・職歴
+
+| 期間              | 所属/会社名                            | 職種・役割                          | 備考     |
+|-------------------|----------------------------------------|-------------------------------------|----------|
+| 2025/2 ~ 現在     | 株式会社SmartHR                        | タレントマネジメント開発1部<br>プロダクトエンジニア |          |
+| 2025/3 ~ 現在     | 株式会社スタジアム                     | フロントエンドエンジニア           | 副業     |
+| 2021/1 ~ 2025/1   | 株式会社スタメン                        | フロントエンドエンジニア           |          |
+| 2023/9 ~ 2024/9   | 株式会社Purpom Media Lab               | フロントエンドエンジニア           | 副業     |
+| 2019/4 ~ 2020/8   | りそな銀行                             | 融資課                              |          |
+| 2015/4 ~ 2019/3   | 学習院大学 経済学部 経済学科          |    大学生                              |    |
+
+---
+
+### ✍️ ブログ
+
 - [TUNAGの新フロントエンドを支える技術と設計](https://tech.stmn.co.jp/entry/2023/08/15/112732)
 - [MSWのモック作成をもう少しだけ自動化する](https://zenn.dev/stmn_inc/articles/1b30b0ac43515b)
 - [軽量なグローバル状態管理ライブラリ「zustand」](https://zenn.dev/stmn_inc/articles/f1101cfa20dedc)
@@ -23,7 +32,10 @@
 - [[Typescript]便利なUtility Types](https://zenn.dev/mzd/articles/1967b161f35f0e)
 - [Storybookについて調べてみました。](https://tech.stmn.co.jp/entry/2021/05/17/155842)
 
-### その他(登壇資料やインタビュー記事など)
-- [レガシーフロントエンドを リプレイスしたら 開発生産性が向上しました](https://speakerdeck.com/kamio/regasihurontoendowo-ripureisusitara-kai-fa-sheng-chan-xing-gaxiang-shang-simasita)
+---
+
+### 🎤 その他（登壇資料・インタビューなど）
+
+- [レガシーフロントエンドをリプレイスしたら開発生産性が向上しました](https://speakerdeck.com/kamio/regasihurontoendowo-ripureisusitara-kai-fa-sheng-chan-xing-gaxiang-shang-simasita)
 - [レガシーフロントエンドをNext.jsにリプレイス「開発生産性の向上」を感じさせてくれた5つのこと](https://logmi.jp/tech/articles/329780)
-- [本質的な課題に向き合い、「働く」ことを楽しむ　Star Members #16](https://note.com/stmn_hr/n/nf3d5caf43c7a)
+- [本質的な課題に向き合い、「働く」ことを楽しむ Star Members #16](https://note.com/stmn_hr/n/nf3d5caf43c7a)
