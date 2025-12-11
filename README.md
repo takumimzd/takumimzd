@@ -1,11 +1,3 @@
-### 📊 Github Status
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=takumimzd&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=takumimzd&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/takumimzd/)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=takumimzd&layout=compact&theme=tokyonight)](https://github.com/takumimzd/)
-
----
-
 ## 📌 職歴（正社員）
 
 | 期間              | 所属/会社名                | 職種・役割                          |
