@@ -42,7 +42,7 @@
 
 ---
 
-### 🏃個人ブログ
+### 🏃[個人ブログ](https://write-down.pages.dev/)
 <!-- BLOG-POST-LIST:START -->
 - [JavaScriptのイベント伝搬を理解する](https://write-down.pages.dev/posts/bd01e200-9461-48d6-b9b7-0e3cd8331ec6/)
 - [ReactがブラウザにUIを描画するまでの4つのフェーズとConcurrent Rendering](https://write-down.pages.dev/posts/e5ff9c44-a390-4946-97e0-ef785eee41f7/)
