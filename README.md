@@ -24,10 +24,12 @@
 | 2015/4 ~ 2019/3   | 学習院大学                        | 経済学部 経済学科       |
 
 
+
 ---
 
 ### ✍️ ブログ
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 - [TUNAGの新フロントエンドを支える技術と設計](https://tech.stmn.co.jp/entry/2023/08/15/112732)
 - [MSWのモック作成をもう少しだけ自動化する](https://zenn.dev/stmn_inc/articles/1b30b0ac43515b)
 - [軽量なグローバル状態管理ライブラリ「zustand」](https://zenn.dev/stmn_inc/articles/f1101cfa20dedc)
