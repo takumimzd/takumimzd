@@ -44,12 +44,12 @@
 
 ### 🏃[個人ブログ](https://write-down.pages.dev/)
 <!-- BLOG-POST-LIST:START -->
-- [RSSで個人ブログの記事をREADMEに自動反映する](https://write-down.pages.dev/posts/dd29bed0-e135-499f-be29-fc314597c7be/)
-- [JavaScriptのイベント伝搬を理解する](https://write-down.pages.dev/posts/bd01e200-9461-48d6-b9b7-0e3cd8331ec6/)
-- [ReactがUIを表示するまでの4つのフェーズとConcurrent Rendering](https://write-down.pages.dev/posts/e5ff9c44-a390-4946-97e0-ef785eee41f7/)
-- [個人ブログを作りました](https://write-down.pages.dev/posts/a8f3c7e9-4d2b-4f1a-9c3e-5b8d9f1a2e4c/)
-- [Yes/Noで答えられる「相談」を心がけている](https://write-down.pages.dev/posts/2112c5d6-1851-4fde-8ba6-e795a25dfd0b/)
-- [UI = f(state)とは何なのか](https://write-down.pages.dev/posts/c5d2f2da-b28e-4907-9228-047a06d9d194/)
+- [RSSで個人ブログの記事をREADMEに自動反映する](https://write-down.com/posts/dd29bed0-e135-499f-be29-fc314597c7be/)
+- [JavaScriptのイベント伝搬を理解する](https://write-down.com/posts/bd01e200-9461-48d6-b9b7-0e3cd8331ec6/)
+- [ReactがUIを表示するまでの4つのフェーズとConcurrent Rendering](https://write-down.com/posts/e5ff9c44-a390-4946-97e0-ef785eee41f7/)
+- [個人ブログを作りました](https://write-down.com/posts/a8f3c7e9-4d2b-4f1a-9c3e-5b8d9f1a2e4c/)
+- [Yes/Noで答えられる「相談」を心がけている](https://write-down.com/posts/2112c5d6-1851-4fde-8ba6-e795a25dfd0b/)
+- [UI = f(state)とは何なのか](https://write-down.com/posts/c5d2f2da-b28e-4907-9228-047a06d9d194/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🎤 その他（登壇資料など）
