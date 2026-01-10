@@ -44,6 +44,7 @@
 
 ### 🏃[個人ブログ](https://write-down.pages.dev/)
 <!-- BLOG-POST-LIST:START -->
+- [仕様駆動開発とTips](https://write-down.com/posts/94029e40-91f9-4059-ab44-188ffbd4e293/)
 - [RSSで個人ブログの記事をREADMEに自動反映する](https://write-down.com/posts/dd29bed0-e135-499f-be29-fc314597c7be/)
 - [JavaScriptのイベント伝搬を理解する](https://write-down.com/posts/bd01e200-9461-48d6-b9b7-0e3cd8331ec6/)
 - [ReactがUIを表示するまでの4つのフェーズとConcurrent Rendering](https://write-down.com/posts/e5ff9c44-a390-4946-97e0-ef785eee41f7/)
