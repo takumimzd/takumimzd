@@ -42,7 +42,7 @@
 
 ---
 
-### 🏃[個人ブログ](https://write-down.pages.dev/)
+### 🏃[個人ブログ](https://write-down.com)
 <!-- BLOG-POST-LIST:START -->
 - [フロントエンドのビルドを理解する](https://write-down.com/posts/c44a5e16-b41b-4414-8a66-e59509beb82c/)
 - [useEffectのクリーンアップでメモリリークを防ぐ](https://write-down.com/posts/253c21fb-4d97-4707-8ad5-45a604ab4493/)
