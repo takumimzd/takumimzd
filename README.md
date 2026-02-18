@@ -44,6 +44,8 @@
 
 ### 🏃[個人ブログ](https://write-down.com)
 <!-- BLOG-POST-LIST:START -->
+- [「運良いよね」と言われる話](https://write-down.com/posts/f4c27f5e-dd83-4344-bcea-87a854cf5c4d/)
+- [記事からスライドを自動生成する仕組みを作った](https://write-down.com/posts/618a05bc-0927-4248-91f2-60725a6626a4/)
 - [neverthrowは何を解決するのか](https://write-down.com/posts/a8b8e3fc-6a1f-4986-b150-902e2883be80/)
 - [フロントエンドのビルドを理解する](https://write-down.com/posts/c44a5e16-b41b-4414-8a66-e59509beb82c/)
 - [useEffectのクリーンアップでメモリリークを防ぐ](https://write-down.com/posts/253c21fb-4d97-4707-8ad5-45a604ab4493/)
