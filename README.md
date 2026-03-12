@@ -44,6 +44,7 @@
 
 ### 🏃[個人ブログ](https://write-down.com)
 <!-- BLOG-POST-LIST:START -->
+- [Claude API × GitHub Actions で自分好みのトレンドを自動生成する](https://write-down.com/posts/e412442b-e770-4840-bb9a-1b8552567f01/)
 - [react-doctorで始めるReactコード診断](https://write-down.com/posts/702195fa-63ce-4e5b-a7b5-371cf5471259/)
 - [「運良いよね」と言われる話](https://write-down.com/posts/f4c27f5e-dd83-4344-bcea-87a854cf5c4d/)
 - [記事からスライドを自動生成する仕組みを作った](https://write-down.com/posts/618a05bc-0927-4248-91f2-60725a6626a4/)
